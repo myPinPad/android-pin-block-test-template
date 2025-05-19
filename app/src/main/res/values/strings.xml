@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pin Block Test</string>
+    <string name="main_input_hint">PIN</string>
+    <string name="main_run">Run</string>
+</resources>
